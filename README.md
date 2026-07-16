@@ -18,7 +18,7 @@ The repository is organized in the same sequence used in the capstone workflow:
 6. `06_SpaceX_VisualAnalytics_Folium.ipynb` - builds geospatial analysis using Folium maps.
 7. `07_SpaceX_Visual_Analytics_Plotly_Dash.py` - creates an interactive Plotly Dash dashboard for visual analytics.
 8. `08_SpaceX_PredictiveAnalytics.ipynb` - trains and evaluates classification models for landing prediction.
-9. `Data-Science-Capstone-Project-Report.pptx` - final presentation deck summarizing the project story and findings.
+9. `SPACEX-IBM-Capstone-Project-Report.pdf` - final presentation deck summarizing the project story and findings.
 
 ## Workflow summary
 
